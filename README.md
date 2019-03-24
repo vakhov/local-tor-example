@@ -6,3 +6,7 @@
  Предварительно установил tor.
 - brew install tor
 - brew services start tor
+
+
+ - top.py - python3
+ - top-py2.pt - python2
